@@ -1,0 +1,25 @@
+
+Basic cammands for git bash 
+git init     -> to initiate git 
+git add      -> to make a tracked file
+git commit   -> to commit the file
+git push     -> to copy file in git hub repository
+git pull     -> to get data from the repository
+git clone    -> to make a copy of directory
+git log      -> to see the commit log 
+git rm       -> to delete the file
+git branch   -> to create a new branch or to see the available branches
+git checkout -> to change the branch
+git status   -> to check the file status
+
+
+
+
+some basic cammands for linux
+touch    -> to create a empty file
+vi       -> to edit the file or create and edit the file
+ls       -> to check the available files and folders in current directory
+mkdir    -> to make a new directory
+cd       -> to change the directory 
+cd ..    -> to go back to previous directory
+
